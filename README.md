@@ -22,6 +22,6 @@ A bash script that helps you quickly create a new Linux user, assign them to a g
 
 1. Clone or download this repo
 ```bash
-git clone https://github.com/yourusername/userwizard.git
+git clone https://github.com/VicVibes/userwizard.git
 cd userwizard
 chmod +x userwizard.sh
